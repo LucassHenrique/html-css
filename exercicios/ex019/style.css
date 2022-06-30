@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* 
+   em HTML ID é = # 
+   em HTML CLASS é = .
+*/
+
+
+body {
+    background-color: #bdffb5c2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    color: #043000;
+}
+
+#principal {
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+
+h2 {
+    color: #385335;
+}

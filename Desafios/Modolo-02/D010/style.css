@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.cabecalho {
+    background-color: #017431;
+    height: 200px;
+    margin: auto;
+    color: white;
+    
+}
+
+.cabecalho-paragrafo {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.cabecalho-titulo {
+    text-align: center;
+    padding: 30px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 15px;
+    
+
+}
+
+.principal {
+    background-color: white;
+    width: 850px;
+    height: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+.primeiro-artigo {
+    text-align: justify;
+    
+}
+
+.segundo-subtitulo {
+    background-color: #01743154;
+    margin-top: 20px;
+}
+
+.segundo-subartigo {
+    padding-top: 20px;
+}
+
+.x1 {
+    background-color: #0174319a;
+    margin-top: 10px;
+}
+
+.irina-blok {
+    margin-top: 10px;
+}
+
+
